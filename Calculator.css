@@ -28,12 +28,15 @@ body{
     height: 15%;
     margin-top: 5%;
     display: flex;
-    justify-content: flex-end;
     align-items: center;
     border: solid grey 1px;
 }
 
-#numopContainer{
+#screenNumber{
+    width: 100%;
+}
+
+#numOpContainer{
     width: 90%;
     height: 70%;
     margin-bottom: 5%;
@@ -62,7 +65,7 @@ body{
     align-items: center;
 }
 
-span{
+button, span {
     background-color: #70b2c9;
     width: 20%;
     height: 85%;
