@@ -15,12 +15,10 @@ var divisionSwitch = false;
 for (let number of numbers.values()){
 
     number.addEventListener("click", () => {
- 
-        
+         
         screen.textContent += number.textContent;
         var value2 = screen.textContent;
         
-
         addition.addEventListener("click", () => {
         
             values.value1 = parseFloat(value2);
@@ -85,10 +83,7 @@ for (let number of numbers.values()){
             value2 = 0;
             screen.textContent = "";
 
-
-
         })
-
 
     })
 
