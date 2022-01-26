@@ -1,2 +1,5 @@
 # Calculator
-JavaScript practice. A calculator that is only able to perform one equation at a time. After each equation, it must be "cleared". The answer to one equation cannot be put into a new equation, the outcome of that will be wrong. The second JavaScript file is a "cleaner" version of the first. 
+JavaScript practice. A calculator that seems to have only one problem.
+Ex. 1 + 4 x 5 = *wrong answer...
+it cannot handle two operations in a single go.
+do one operation, then after "=", your next operation. 
