@@ -94,7 +94,7 @@ button, span {
     justify-content: space-evenly;
 }
 
-.signs{
+.signs, .eSign{
     font-size: 3rem;
     width: 80%;
     height: 15%;

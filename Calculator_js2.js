@@ -86,8 +86,3 @@ clear.addEventListener("click", () => {
 
 })
 
-
-
-
-
-
